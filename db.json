@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "type": "NEWSLETTER",
+      "submit_token": "209345978jsig",
+      "title": "Jetzt NEWSLETTER abonnieren",
+      "articlepicture": "https://ichreise.at/wp-content/uploads/2018/05/chor-hung-tsang-19848-unsplash.jpg",
+      "teaser": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce convallis pellentesque metus id lacinia. Nunc dapibus pulvinar auctor.",
+      "buttontext": "> Jetzt anmelden",
+      "TOS": "to text",
+      "publisher": "Absender der Ad",
+      "publisher_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Kleine_Zeitung.svg",
+      "final_picture": "https://ichreise.at/wp-content/uploads/2018/01/Save-768x480.jpg",
+      "teaser2": "Duis nec sem at orci commodo viverra id in ipsum. Fusce tellus nisl, vestibulum sed rhoncus at, pretium non libero.",
+      "final_title": "Vielen Dank für Ihre Anmeldung",
+      "final_text": "Zukünftig werden Sie nichts mehr verpassen! Bye Bye"
+    }
+  ]
 }
+
